@@ -4702,11 +4702,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.ServicesTests\\PAW.ServicesTests.csproj",
+      "projectUniqueName": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.ServicesTests\\PAW.ServicesTests.csproj",
       "projectName": "PAW.ServicesTests",
-      "projectPath": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.ServicesTests\\PAW.ServicesTests.csproj",
+      "projectPath": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.ServicesTests\\PAW.ServicesTests.csproj",
       "packagesPath": "C:\\Users\\Kenda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.ServicesTests\\obj\\",
+      "outputPath": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.ServicesTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4728,8 +4728,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Services\\PAW.Services.csproj": {
-              "projectPath": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Services\\PAW.Services.csproj"
+            "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Services\\PAW.Services.csproj": {
+              "projectPath": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Services\\PAW.Services.csproj"
             }
           }
         }

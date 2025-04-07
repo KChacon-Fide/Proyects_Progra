@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Models\\PAW.Models.csproj",
+      "projectUniqueName": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Models\\PAW.Models.csproj",
       "projectName": "PAW.Models",
-      "projectPath": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Models\\PAW.Models.csproj",
+      "projectPath": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Models\\PAW.Models.csproj",
       "packagesPath": "C:\\Users\\Kenda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Models\\obj\\",
+      "outputPath": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

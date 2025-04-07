@@ -2944,11 +2944,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Business\\PAW.Business.csproj",
+      "projectUniqueName": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Business\\PAW.Business.csproj",
       "projectName": "PAW.Business",
-      "projectPath": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Business\\PAW.Business.csproj",
+      "projectPath": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Business\\PAW.Business.csproj",
       "packagesPath": "C:\\Users\\Kenda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Business\\obj\\",
+      "outputPath": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2970,17 +2970,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Data\\PAW.Data.csproj": {
-              "projectPath": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Data\\PAW.Data.csproj"
+            "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Data\\PAW.Data.csproj": {
+              "projectPath": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Data\\PAW.Data.csproj"
             },
-            "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Models\\PAW.Models.csproj": {
-              "projectPath": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Models\\PAW.Models.csproj"
+            "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Models\\PAW.Models.csproj": {
+              "projectPath": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Models\\PAW.Models.csproj"
             },
-            "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Repositories\\PAW.Repositories.csproj": {
-              "projectPath": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Repositories\\PAW.Repositories.csproj"
+            "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Repositories\\PAW.Repositories.csproj": {
+              "projectPath": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Repositories\\PAW.Repositories.csproj"
             },
-            "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Services\\PAW.Services.csproj": {
-              "projectPath": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Services\\PAW.Services.csproj"
+            "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Services\\PAW.Services.csproj": {
+              "projectPath": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Services\\PAW.Services.csproj"
             }
           }
         }

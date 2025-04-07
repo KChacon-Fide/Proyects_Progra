@@ -9,8 +9,9 @@ using PAW.Services;
 using PAW.Architecture.Factory;
 
 var builder = WebApplication.CreateBuilder(args);
+var connectionString = "Server=AMIRANDAPC\\SQLEXPRESS;Database=ProductDB;Trusted_Connection=True;TrustServerCertificate=True;";
 builder.Services.AddDbContext<PAWmvcContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("PAWmvcContext") ?? throw new InvalidOperationException("Connection string 'PAWmvcContext' not found.")));
+    options.UseSqlServer(connectionString));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

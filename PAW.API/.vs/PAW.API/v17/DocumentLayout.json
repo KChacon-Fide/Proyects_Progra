@@ -1,57 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\",
+  "WorkspaceRootPath": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D1BCEE9-9EE9-48A5-B0E6-DDC619E3A675}|PAW.mvc\\PAW.mvc.csproj|c:\\users\\kenda\\downloads\\paw.apicopia\\paw.apicopia\\paw.mvc\\views\\product\\playground.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7D1BCEE9-9EE9-48A5-B0E6-DDC619E3A675}|PAW.mvc\\PAW.mvc.csproj|c:\\users\\kenda\\source\\repos\\proyects_progra\\paw.api\\paw.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1BCEE9-9EE9-48A5-B0E6-DDC619E3A675}|PAW.mvc\\PAW.mvc.csproj|solutionrelative:paw.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B67027C-0105-4BAF-B7E6-D2A31745971F}|PAW.API\\PAW.API.csproj|c:\\users\\kenda\\source\\repos\\proyects_progra\\paw.api\\paw.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B67027C-0105-4BAF-B7E6-D2A31745971F}|PAW.API\\PAW.API.csproj|solutionrelative:paw.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B67027C-0105-4BAF-B7E6-D2A31745971F}|PAW.API\\PAW.API.csproj|c:\\users\\kenda\\source\\repos\\proyects_progra\\paw.api\\paw.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B67027C-0105-4BAF-B7E6-D2A31745971F}|PAW.API\\PAW.API.csproj|solutionrelative:paw.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1BCEE9-9EE9-48A5-B0E6-DDC619E3A675}|PAW.mvc\\PAW.mvc.csproj|c:\\users\\kenda\\source\\repos\\proyects_progra\\paw.api\\paw.mvc\\views\\product\\playground.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7D1BCEE9-9EE9-48A5-B0E6-DDC619E3A675}|PAW.mvc\\PAW.mvc.csproj|solutionrelative:paw.mvc\\views\\product\\playground.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D1BCEE9-9EE9-48A5-B0E6-DDC619E3A675}|PAW.mvc\\PAW.mvc.csproj|c:\\users\\kenda\\downloads\\paw.apicopia\\paw.apicopia\\paw.mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7D1BCEE9-9EE9-48A5-B0E6-DDC619E3A675}|PAW.mvc\\PAW.mvc.csproj|c:\\users\\kenda\\source\\repos\\proyects_progra\\paw.api\\paw.mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7D1BCEE9-9EE9-48A5-B0E6-DDC619E3A675}|PAW.mvc\\PAW.mvc.csproj|solutionrelative:paw.mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D1BCEE9-9EE9-48A5-B0E6-DDC619E3A675}|PAW.mvc\\PAW.mvc.csproj|c:\\users\\kenda\\downloads\\paw.apicopia\\paw.apicopia\\paw.mvc\\views\\product\\_createdproductstable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7D1BCEE9-9EE9-48A5-B0E6-DDC619E3A675}|PAW.mvc\\PAW.mvc.csproj|c:\\users\\kenda\\source\\repos\\proyects_progra\\paw.api\\paw.mvc\\views\\product\\_createdproductstable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7D1BCEE9-9EE9-48A5-B0E6-DDC619E3A675}|PAW.mvc\\PAW.mvc.csproj|solutionrelative:paw.mvc\\views\\product\\_createdproductstable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D1BCEE9-9EE9-48A5-B0E6-DDC619E3A675}|PAW.mvc\\PAW.mvc.csproj|c:\\users\\kenda\\downloads\\paw.apicopia\\paw.apicopia\\paw.mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D1BCEE9-9EE9-48A5-B0E6-DDC619E3A675}|PAW.mvc\\PAW.mvc.csproj|c:\\users\\kenda\\source\\repos\\proyects_progra\\paw.api\\paw.mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D1BCEE9-9EE9-48A5-B0E6-DDC619E3A675}|PAW.mvc\\PAW.mvc.csproj|solutionrelative:paw.mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA0FBB0B-4D2C-498E-ADED-685CC97283E9}|PAW.ArchitectureTests\\PAW.ArchitectureTests.csproj|c:\\users\\kenda\\downloads\\paw.apicopia\\paw.apicopia\\paw.architecturetests\\factory\\productfactorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA0FBB0B-4D2C-498E-ADED-685CC97283E9}|PAW.ArchitectureTests\\PAW.ArchitectureTests.csproj|solutionrelative:paw.architecturetests\\factory\\productfactorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F1CC041-C557-4A70-B3E3-9B422B6C6F39}|PAW.Repositories\\PAW.Repositories.csproj|c:\\users\\kenda\\downloads\\paw.apicopia\\paw.apicopia\\paw.repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F1CC041-C557-4A70-B3E3-9B422B6C6F39}|PAW.Repositories\\PAW.Repositories.csproj|c:\\users\\kenda\\source\\repos\\proyects_progra\\paw.api\\paw.repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F1CC041-C557-4A70-B3E3-9B422B6C6F39}|PAW.Repositories\\PAW.Repositories.csproj|solutionrelative:paw.repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B609C58E-E48E-499C-AC13-DABED4330E97}|PAW.RepositoriesTests\\PAW.RepositoriesTests.csproj|c:\\users\\kenda\\downloads\\paw.apicopia\\paw.apicopia\\paw.repositoriestests\\productrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B609C58E-E48E-499C-AC13-DABED4330E97}|PAW.RepositoriesTests\\PAW.RepositoriesTests.csproj|c:\\users\\kenda\\source\\repos\\proyects_progra\\paw.api\\paw.repositoriestests\\productrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B609C58E-E48E-499C-AC13-DABED4330E97}|PAW.RepositoriesTests\\PAW.RepositoriesTests.csproj|solutionrelative:paw.repositoriestests\\productrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7BCF98B-2826-4E36-8D52-6B5F52D5C263}|PAW.Data\\PAW.Data.csproj|c:\\users\\kenda\\downloads\\paw.apicopia\\paw.apicopia\\paw.data\\productdb2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7BCF98B-2826-4E36-8D52-6B5F52D5C263}|PAW.Data\\PAW.Data.csproj|c:\\users\\kenda\\source\\repos\\proyects_progra\\paw.api\\paw.data\\productdb2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7BCF98B-2826-4E36-8D52-6B5F52D5C263}|PAW.Data\\PAW.Data.csproj|solutionrelative:paw.data\\productdb2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{986C6FE3-4BD9-4264-B209-FFDD4CACF94B}|PAW.Services\\PAW.Services.csproj|c:\\users\\kenda\\downloads\\paw.apicopia\\paw.apicopia\\paw.services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{986C6FE3-4BD9-4264-B209-FFDD4CACF94B}|PAW.Services\\PAW.Services.csproj|c:\\users\\kenda\\source\\repos\\proyects_progra\\paw.api\\paw.services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{986C6FE3-4BD9-4264-B209-FFDD4CACF94B}|PAW.Services\\PAW.Services.csproj|solutionrelative:paw.services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DE45252-6A25-4689-8452-B4C60EE9692B}|PAW.Architecture\\PAW.Architecture.csproj|c:\\users\\kenda\\downloads\\paw.apicopia\\paw.apicopia\\paw.architecture\\factory\\productfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1DE45252-6A25-4689-8452-B4C60EE9692B}|PAW.Architecture\\PAW.Architecture.csproj|c:\\users\\kenda\\source\\repos\\proyects_progra\\paw.api\\paw.architecture\\factory\\productfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DE45252-6A25-4689-8452-B4C60EE9692B}|PAW.Architecture\\PAW.Architecture.csproj|solutionrelative:paw.architecture\\factory\\productfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43FC43EB-7C3E-4895-A3B7-32639F796090}|PAW.Models\\PAW.Models.csproj|c:\\users\\kenda\\downloads\\paw.apicopia\\paw.apicopia\\paw.models\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43FC43EB-7C3E-4895-A3B7-32639F796090}|PAW.Models\\PAW.Models.csproj|c:\\users\\kenda\\source\\repos\\proyects_progra\\paw.api\\paw.models\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43FC43EB-7C3E-4895-A3B7-32639F796090}|PAW.Models\\PAW.Models.csproj|solutionrelative:paw.models\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D1BCEE9-9EE9-48A5-B0E6-DDC619E3A675}|PAW.mvc\\PAW.mvc.csproj|c:\\users\\kenda\\downloads\\paw.apicopia\\paw.apicopia\\paw.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7D1BCEE9-9EE9-48A5-B0E6-DDC619E3A675}|PAW.mvc\\PAW.mvc.csproj|c:\\users\\kenda\\source\\repos\\proyects_progra\\paw.api\\paw.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7D1BCEE9-9EE9-48A5-B0E6-DDC619E3A675}|PAW.mvc\\PAW.mvc.csproj|solutionrelative:paw.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DE45252-6A25-4689-8452-B4C60EE9692B}|PAW.Architecture\\PAW.Architecture.csproj|c:\\users\\kenda\\downloads\\paw.apicopia\\paw.apicopia\\paw.architecture\\factory\\iproductfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1DE45252-6A25-4689-8452-B4C60EE9692B}|PAW.Architecture\\PAW.Architecture.csproj|c:\\users\\kenda\\source\\repos\\proyects_progra\\paw.api\\paw.architecture\\factory\\iproductfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DE45252-6A25-4689-8452-B4C60EE9692B}|PAW.Architecture\\PAW.Architecture.csproj|solutionrelative:paw.architecture\\factory\\iproductfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 377,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,23 +122,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductFactoryTests.cs",
-              "DocumentMoniker": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.ArchitectureTests\\Factory\\ProductFactoryTests.cs",
-              "RelativeDocumentMoniker": "PAW.ArchitectureTests\\Factory\\ProductFactoryTests.cs",
-              "ToolTip": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.ArchitectureTests\\Factory\\ProductFactoryTests.cs",
-              "RelativeToolTip": "PAW.ArchitectureTests\\Factory\\ProductFactoryTests.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwAgAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.mvc\\Program.cs",
+              "RelativeDocumentMoniker": "PAW.mvc\\Program.cs",
+              "ToolTip": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.mvc\\Program.cs",
+              "RelativeToolTip": "PAW.mvc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T00:25:46.736Z"
+              "WhenOpened": "2025-04-07T03:57:58.639Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.API\\Program.cs",
+              "RelativeDocumentMoniker": "PAW.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.API\\Program.cs",
+              "RelativeToolTip": "PAW.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:57:40.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "PAW.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.API\\WeatherForecast.cs",
+              "RelativeToolTip": "PAW.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:57:36.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.mvc\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.mvc\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "PAW.mvc\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.mvc\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.mvc\\Controllers\\ProductController.cs",
               "RelativeToolTip": "PAW.mvc\\Controllers\\ProductController.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAUwGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -138,11 +173,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "_CreatedProductsTable.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.mvc\\Views\\Product\\_CreatedProductsTable.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.mvc\\Views\\Product\\_CreatedProductsTable.cshtml",
               "RelativeDocumentMoniker": "PAW.mvc\\Views\\Product\\_CreatedProductsTable.cshtml",
-              "ToolTip": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.mvc\\Views\\Product\\_CreatedProductsTable.cshtml",
+              "ToolTip": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.mvc\\Views\\Product\\_CreatedProductsTable.cshtml",
               "RelativeToolTip": "PAW.mvc\\Views\\Product\\_CreatedProductsTable.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -150,11 +185,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Playground.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.mvc\\Views\\Product\\Playground.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.mvc\\Views\\Product\\Playground.cshtml",
               "RelativeDocumentMoniker": "PAW.mvc\\Views\\Product\\Playground.cshtml",
-              "ToolTip": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.mvc\\Views\\Product\\Playground.cshtml",
+              "ToolTip": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.mvc\\Views\\Product\\Playground.cshtml",
               "RelativeToolTip": "PAW.mvc\\Views\\Product\\Playground.cshtml",
               "ViewState": "AgIAAA4AAAAAAAAAAAAmwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -163,11 +198,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Repositories\\ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "PAW.Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Repositories\\ProductRepository.cs",
               "RelativeToolTip": "PAW.Repositories\\ProductRepository.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAUwBQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -175,11 +210,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ProductRepositoryTests.cs",
-              "DocumentMoniker": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.RepositoriesTests\\ProductRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.RepositoriesTests\\ProductRepositoryTests.cs",
               "RelativeDocumentMoniker": "PAW.RepositoriesTests\\ProductRepositoryTests.cs",
-              "ToolTip": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.RepositoriesTests\\ProductRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.RepositoriesTests\\ProductRepositoryTests.cs",
               "RelativeToolTip": "PAW.RepositoriesTests\\ProductRepositoryTests.cs",
               "ViewState": "AgIAAFwAAAAAAAAAAAAswDwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -187,11 +222,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.mvc\\Views\\Product\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.mvc\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "PAW.mvc\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.mvc\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.mvc\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "PAW.mvc\\Views\\Product\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -199,11 +234,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ProductDb2Context.cs",
-              "DocumentMoniker": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Data\\ProductDb2Context.cs",
+              "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Data\\ProductDb2Context.cs",
               "RelativeDocumentMoniker": "PAW.Data\\ProductDb2Context.cs",
-              "ToolTip": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Data\\ProductDb2Context.cs",
+              "ToolTip": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Data\\ProductDb2Context.cs",
               "RelativeToolTip": "PAW.Data\\ProductDb2Context.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowIYAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -211,11 +246,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Services\\ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Services\\ProductService.cs",
               "RelativeDocumentMoniker": "PAW.Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Services\\ProductService.cs",
               "RelativeToolTip": "PAW.Services\\ProductService.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -223,11 +258,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ProductFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Architecture\\Factory\\ProductFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Architecture\\Factory\\ProductFactory.cs",
               "RelativeDocumentMoniker": "PAW.Architecture\\Factory\\ProductFactory.cs",
-              "ToolTip": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Architecture\\Factory\\ProductFactory.cs",
+              "ToolTip": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Architecture\\Factory\\ProductFactory.cs",
               "RelativeToolTip": "PAW.Architecture\\Factory\\ProductFactory.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -235,11 +270,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Models\\Models\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Models\\Models\\Product.cs",
               "RelativeDocumentMoniker": "PAW.Models\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Models\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Models\\Models\\Product.cs",
               "RelativeToolTip": "PAW.Models\\Models\\Product.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAA7wA8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -247,11 +282,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.mvc\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.mvc\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PAW.mvc\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.mvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.mvc\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "PAW.mvc\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAACkAAAAAAAAAAAAcwC8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -259,11 +294,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "IProductFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Architecture\\Factory\\IProductFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Architecture\\Factory\\IProductFactory.cs",
               "RelativeDocumentMoniker": "PAW.Architecture\\Factory\\IProductFactory.cs",
-              "ToolTip": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Architecture\\Factory\\IProductFactory.cs",
+              "ToolTip": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Architecture\\Factory\\IProductFactory.cs",
               "RelativeToolTip": "PAW.Architecture\\Factory\\IProductFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

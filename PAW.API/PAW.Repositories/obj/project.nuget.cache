@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Av1vnQEMi2Q=",
+  "dgSpecHash": "oFIsqSWf+hA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.Repositories\\PAW.Repositories.csproj",
+  "projectFilePath": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.Repositories\\PAW.Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kenda\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Kenda\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

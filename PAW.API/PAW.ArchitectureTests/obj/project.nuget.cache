@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fcjjlB0Rrz4=",
+  "dgSpecHash": "c5cK0Vlmpis=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kenda\\Downloads\\PAW.APICopia\\PAW.APICopia\\PAW.ArchitectureTests\\PAW.ArchitectureTests.csproj",
+  "projectFilePath": "C:\\Users\\Kenda\\source\\repos\\Proyects_Progra\\PAW.API\\PAW.ArchitectureTests\\PAW.ArchitectureTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kenda\\.nuget\\packages\\bogus\\35.6.2\\bogus.35.6.2.nupkg.sha512",
     "C:\\Users\\Kenda\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
