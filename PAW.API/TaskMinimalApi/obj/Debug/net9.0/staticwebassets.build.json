@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ytmVNYyr3+MwEVLkTU6F0Q8QJPwkweYScI8QYYKiRBo=",
+  "Source": "TaskMinimalApi",
+  "BasePath": "_content/TaskMinimalApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

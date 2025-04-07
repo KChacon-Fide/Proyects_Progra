@@ -1,0 +1,44 @@
+﻿@model IEnumerable<PAW.Models.Product>
+
+<h2>Productos generados (Fakes)</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Rating</th>
+            <th>Descripción</th>
+            <th>Categoría</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.ProductName</td>
+                <td>@p.Rating</td>
+                <td>@p.Description</td>
+                <td>@p.CategoryId</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="mb-3">
+    <button class="btn btn-info" onclick="addFakeProducts()">Generar más productos (AJAX)</button>
+</div>
+
+<h3>Más productos creados con AJAX</h3>
+<div id="createdProductsContainer"></div>
+
+@section Scripts {
+    <script>
+        function addFakeProducts() {
+            fetch('@Url.Action("GetCreatedProductsPartial", "Product")?count=5')
+                .then(response => response.text())
+                .then(html => {
+                    document.getElementById("createdProductsContainer").innerHTML = html;
+                });
+        }
+    </script>
+}

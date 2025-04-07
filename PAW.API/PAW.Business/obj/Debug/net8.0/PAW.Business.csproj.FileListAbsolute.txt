@@ -1,0 +1,77 @@
+C:\Users\yeray\source\repos\PAW.API\PAW.Business\bin\Debug\net8.0\PAW.Business.deps.json
+C:\Users\yeray\source\repos\PAW.API\PAW.Business\bin\Debug\net8.0\PAW.Business.dll
+C:\Users\yeray\source\repos\PAW.API\PAW.Business\bin\Debug\net8.0\PAW.Business.pdb
+C:\Users\yeray\source\repos\PAW.API\PAW.Business\bin\Debug\net8.0\PAW.Models.dll
+C:\Users\yeray\source\repos\PAW.API\PAW.Business\bin\Debug\net8.0\PAW.Models.pdb
+C:\Users\yeray\source\repos\PAW.API\PAW.Business\obj\Debug\net8.0\PAW.Business.csproj.AssemblyReference.cache
+C:\Users\yeray\source\repos\PAW.API\PAW.Business\obj\Debug\net8.0\PAW.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeray\source\repos\PAW.API\PAW.Business\obj\Debug\net8.0\PAW.Business.AssemblyInfoInputs.cache
+C:\Users\yeray\source\repos\PAW.API\PAW.Business\obj\Debug\net8.0\PAW.Business.AssemblyInfo.cs
+C:\Users\yeray\source\repos\PAW.API\PAW.Business\obj\Debug\net8.0\PAW.Business.csproj.CoreCompileInputs.cache
+C:\Users\yeray\source\repos\PAW.API\PAW.Business\obj\Debug\net8.0\PAW.Busi.3850708A.Up2Date
+C:\Users\yeray\source\repos\PAW.API\PAW.Business\obj\Debug\net8.0\PAW.Business.dll
+C:\Users\yeray\source\repos\PAW.API\PAW.Business\obj\Debug\net8.0\refint\PAW.Business.dll
+C:\Users\yeray\source\repos\PAW.API\PAW.Business\obj\Debug\net8.0\PAW.Business.pdb
+C:\Users\yeray\source\repos\PAW.API\PAW.Business\obj\Debug\net8.0\ref\PAW.Business.dll
+C:\Users\yeray\source\repos\PAW.API\PAW.Business\bin\Debug\net8.0\PAW.Data.dll
+C:\Users\yeray\source\repos\PAW.API\PAW.Business\bin\Debug\net8.0\PAW.Data.pdb
+C:\Users\yeray\source\repos\PAW.API\PAW.Business\bin\Debug\net8.0\PAW.Architecture.dll
+C:\Users\yeray\source\repos\PAW.API\PAW.Business\bin\Debug\net8.0\PAW.Repositories.dll
+C:\Users\yeray\source\repos\PAW.API\PAW.Business\bin\Debug\net8.0\PAW.Repositories.pdb
+C:\Users\yeray\source\repos\PAW.API\PAW.Business\bin\Debug\net8.0\PAW.Architecture.pdb
+C:\Users\yeray\source\repos\PAW.API\PAW.Business\bin\Debug\net8.0\PAW.Services.dll
+C:\Users\yeray\source\repos\PAW.API\PAW.Business\bin\Debug\net8.0\PAW.Services.pdb
+C:\Users\yeray\source\repos\PAW.API - copia\PAW.Business\obj\Debug\net8.0\PAW.Business.csproj.AssemblyReference.cache
+C:\Users\yeray\source\repos\PAW.API - copia\PAW.Business\obj\Debug\net8.0\PAW.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeray\source\repos\PAW.API - copia\PAW.Business\obj\Debug\net8.0\PAW.Business.AssemblyInfoInputs.cache
+C:\Users\yeray\source\repos\PAW.API - copia\PAW.Business\obj\Debug\net8.0\PAW.Business.AssemblyInfo.cs
+C:\Users\yeray\source\repos\PAW.API - copia\PAW.Business\obj\Debug\net8.0\PAW.Business.csproj.CoreCompileInputs.cache
+C:\Users\yeray\source\repos\PAW.API - copia\PAW.Business\obj\Debug\net8.0\PAW.Business.dll
+C:\Users\yeray\source\repos\PAW.API - copia\PAW.Business\obj\Debug\net8.0\refint\PAW.Business.dll
+C:\Users\yeray\source\repos\PAW.API - copia\PAW.Business\obj\Debug\net8.0\PAW.Business.pdb
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Business\obj\Debug\net8.0\PAW.Business.csproj.AssemblyReference.cache
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Business\obj\Debug\net8.0\PAW.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Business\obj\Debug\net8.0\PAW.Business.AssemblyInfoInputs.cache
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Business\obj\Debug\net8.0\PAW.Business.AssemblyInfo.cs
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Business\obj\Debug\net8.0\PAW.Business.csproj.CoreCompileInputs.cache
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Business\obj\Debug\net8.0\PAW.Business.dll
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Business\obj\Debug\net8.0\refint\PAW.Business.dll
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Business\obj\Debug\net8.0\PAW.Business.pdb
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Business\bin\Debug\net8.0\PAW.Business.deps.json
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Business\bin\Debug\net8.0\PAW.Business.dll
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Business\bin\Debug\net8.0\PAW.Business.pdb
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Business\bin\Debug\net8.0\PAW.Architecture.dll
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Business\bin\Debug\net8.0\PAW.Data.dll
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Business\bin\Debug\net8.0\PAW.Models.dll
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Business\bin\Debug\net8.0\PAW.Repositories.dll
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Business\bin\Debug\net8.0\PAW.Services.dll
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Business\bin\Debug\net8.0\PAW.Data.pdb
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Business\bin\Debug\net8.0\PAW.Models.pdb
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Business\bin\Debug\net8.0\PAW.Repositories.pdb
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Business\bin\Debug\net8.0\PAW.Services.pdb
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Business\bin\Debug\net8.0\PAW.Architecture.pdb
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Business\obj\Debug\net8.0\PAW.Busi.3850708A.Up2Date
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Business\obj\Debug\net8.0\ref\PAW.Business.dll
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Business\bin\Debug\net8.0\PAW.Business.deps.json
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Business\bin\Debug\net8.0\PAW.Business.dll
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Business\bin\Debug\net8.0\PAW.Business.pdb
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Business\bin\Debug\net8.0\PAW.Architecture.dll
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Business\bin\Debug\net8.0\PAW.Data.dll
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Business\bin\Debug\net8.0\PAW.Models.dll
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Business\bin\Debug\net8.0\PAW.Repositories.dll
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Business\bin\Debug\net8.0\PAW.Services.dll
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Business\bin\Debug\net8.0\PAW.Data.pdb
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Business\bin\Debug\net8.0\PAW.Models.pdb
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Business\bin\Debug\net8.0\PAW.Repositories.pdb
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Business\bin\Debug\net8.0\PAW.Services.pdb
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Business\bin\Debug\net8.0\PAW.Architecture.pdb
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Business\obj\Debug\net8.0\PAW.Business.csproj.AssemblyReference.cache
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Business\obj\Debug\net8.0\PAW.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Business\obj\Debug\net8.0\PAW.Business.AssemblyInfoInputs.cache
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Business\obj\Debug\net8.0\PAW.Business.AssemblyInfo.cs
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Business\obj\Debug\net8.0\PAW.Business.csproj.CoreCompileInputs.cache
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Business\obj\Debug\net8.0\PAW.Busi.3850708A.Up2Date
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Business\obj\Debug\net8.0\PAW.Business.dll
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Business\obj\Debug\net8.0\refint\PAW.Business.dll
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Business\obj\Debug\net8.0\PAW.Business.pdb
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Business\obj\Debug\net8.0\ref\PAW.Business.dll

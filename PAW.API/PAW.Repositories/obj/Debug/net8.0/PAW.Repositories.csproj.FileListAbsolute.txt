@@ -1,0 +1,65 @@
+C:\Users\yeray\source\repos\PAW.API\PAW.Repositories\bin\Debug\net8.0\PAW.Repositories.deps.json
+C:\Users\yeray\source\repos\PAW.API\PAW.Repositories\bin\Debug\net8.0\PAW.Repositories.dll
+C:\Users\yeray\source\repos\PAW.API\PAW.Repositories\bin\Debug\net8.0\PAW.Repositories.pdb
+C:\Users\yeray\source\repos\PAW.API\PAW.Repositories\bin\Debug\net8.0\PAW.Architecture.dll
+C:\Users\yeray\source\repos\PAW.API\PAW.Repositories\bin\Debug\net8.0\PAW.Data.dll
+C:\Users\yeray\source\repos\PAW.API\PAW.Repositories\bin\Debug\net8.0\PAW.Models.dll
+C:\Users\yeray\source\repos\PAW.API\PAW.Repositories\bin\Debug\net8.0\PAW.Architecture.pdb
+C:\Users\yeray\source\repos\PAW.API\PAW.Repositories\bin\Debug\net8.0\PAW.Data.pdb
+C:\Users\yeray\source\repos\PAW.API\PAW.Repositories\bin\Debug\net8.0\PAW.Models.pdb
+C:\Users\yeray\source\repos\PAW.API\PAW.Repositories\obj\Debug\net8.0\PAW.Repositories.csproj.AssemblyReference.cache
+C:\Users\yeray\source\repos\PAW.API\PAW.Repositories\obj\Debug\net8.0\PAW.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeray\source\repos\PAW.API\PAW.Repositories\obj\Debug\net8.0\PAW.Repositories.AssemblyInfoInputs.cache
+C:\Users\yeray\source\repos\PAW.API\PAW.Repositories\obj\Debug\net8.0\PAW.Repositories.AssemblyInfo.cs
+C:\Users\yeray\source\repos\PAW.API\PAW.Repositories\obj\Debug\net8.0\PAW.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\yeray\source\repos\PAW.API\PAW.Repositories\obj\Debug\net8.0\PAW.Repo.8949D5BE.Up2Date
+C:\Users\yeray\source\repos\PAW.API\PAW.Repositories\obj\Debug\net8.0\PAW.Repositories.dll
+C:\Users\yeray\source\repos\PAW.API\PAW.Repositories\obj\Debug\net8.0\refint\PAW.Repositories.dll
+C:\Users\yeray\source\repos\PAW.API\PAW.Repositories\obj\Debug\net8.0\PAW.Repositories.pdb
+C:\Users\yeray\source\repos\PAW.API\PAW.Repositories\obj\Debug\net8.0\ref\PAW.Repositories.dll
+C:\Users\yeray\source\repos\PAW.API - copia\PAW.Repositories\obj\Debug\net8.0\PAW.Repositories.csproj.AssemblyReference.cache
+C:\Users\yeray\source\repos\PAW.API - copia\PAW.Repositories\obj\Debug\net8.0\PAW.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeray\source\repos\PAW.API - copia\PAW.Repositories\obj\Debug\net8.0\PAW.Repositories.AssemblyInfoInputs.cache
+C:\Users\yeray\source\repos\PAW.API - copia\PAW.Repositories\obj\Debug\net8.0\PAW.Repositories.AssemblyInfo.cs
+C:\Users\yeray\source\repos\PAW.API - copia\PAW.Repositories\obj\Debug\net8.0\PAW.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\yeray\source\repos\PAW.API - copia\PAW.Repositories\obj\Debug\net8.0\PAW.Repositories.dll
+C:\Users\yeray\source\repos\PAW.API - copia\PAW.Repositories\obj\Debug\net8.0\refint\PAW.Repositories.dll
+C:\Users\yeray\source\repos\PAW.API - copia\PAW.Repositories\obj\Debug\net8.0\PAW.Repositories.pdb
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Repositories\obj\Debug\net8.0\PAW.Repositories.csproj.AssemblyReference.cache
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Repositories\obj\Debug\net8.0\PAW.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Repositories\obj\Debug\net8.0\PAW.Repositories.AssemblyInfoInputs.cache
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Repositories\obj\Debug\net8.0\PAW.Repositories.AssemblyInfo.cs
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Repositories\obj\Debug\net8.0\PAW.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Repositories\obj\Debug\net8.0\PAW.Repositories.dll
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Repositories\obj\Debug\net8.0\refint\PAW.Repositories.dll
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Repositories\obj\Debug\net8.0\PAW.Repositories.pdb
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Repositories\bin\Debug\net8.0\PAW.Repositories.deps.json
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Repositories\bin\Debug\net8.0\PAW.Repositories.dll
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Repositories\bin\Debug\net8.0\PAW.Repositories.pdb
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Repositories\bin\Debug\net8.0\PAW.Architecture.dll
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Repositories\bin\Debug\net8.0\PAW.Data.dll
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Repositories\bin\Debug\net8.0\PAW.Models.dll
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Repositories\bin\Debug\net8.0\PAW.Architecture.pdb
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Repositories\bin\Debug\net8.0\PAW.Data.pdb
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Repositories\bin\Debug\net8.0\PAW.Models.pdb
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Repositories\obj\Debug\net8.0\PAW.Repo.8949D5BE.Up2Date
+C:\Users\yeray\source\repos\PAW.APICopia\PAW.Repositories\obj\Debug\net8.0\ref\PAW.Repositories.dll
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Repositories\bin\Debug\net8.0\PAW.Repositories.deps.json
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Repositories\bin\Debug\net8.0\PAW.Repositories.dll
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Repositories\bin\Debug\net8.0\PAW.Repositories.pdb
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Repositories\bin\Debug\net8.0\PAW.Architecture.dll
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Repositories\bin\Debug\net8.0\PAW.Data.dll
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Repositories\bin\Debug\net8.0\PAW.Models.dll
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Repositories\bin\Debug\net8.0\PAW.Architecture.pdb
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Repositories\bin\Debug\net8.0\PAW.Data.pdb
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Repositories\bin\Debug\net8.0\PAW.Models.pdb
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Repositories\obj\Debug\net8.0\PAW.Repositories.csproj.AssemblyReference.cache
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Repositories\obj\Debug\net8.0\PAW.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Repositories\obj\Debug\net8.0\PAW.Repositories.AssemblyInfoInputs.cache
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Repositories\obj\Debug\net8.0\PAW.Repositories.AssemblyInfo.cs
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Repositories\obj\Debug\net8.0\PAW.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Repositories\obj\Debug\net8.0\PAW.Repo.8949D5BE.Up2Date
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Repositories\obj\Debug\net8.0\PAW.Repositories.dll
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Repositories\obj\Debug\net8.0\refint\PAW.Repositories.dll
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Repositories\obj\Debug\net8.0\PAW.Repositories.pdb
+C:\Users\Kenda\Downloads\PAW.APICopia\PAW.APICopia\PAW.Repositories\obj\Debug\net8.0\ref\PAW.Repositories.dll

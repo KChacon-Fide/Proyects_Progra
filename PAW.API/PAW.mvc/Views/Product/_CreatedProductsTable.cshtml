@@ -1,0 +1,23 @@
+﻿@model IEnumerable<PAW.Models.Product>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Rating</th>
+            <th>Descripción</th>
+            <th>Categoría</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.ProductName</td>
+                <td>@p.Rating</td>
+                <td>@p.Description</td>
+                <td>@p.CategoryId</td>
+            </tr>
+        }
+    </tbody>
+</table>
