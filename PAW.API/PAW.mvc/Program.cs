@@ -13,36 +13,23 @@ var connectionString = "Server=AMIRANDAPC\\SQLEXPRESS;Database=ProductDB;Trusted
 builder.Services.AddDbContext<PAWmvcContext>(options =>
     options.UseSqlServer(connectionString));
 
-// Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<IRestProvider, RestProvider>();
-
 builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
-
 builder.Services.AddTransient<IProductService, ProductService>();
 builder.Services.AddTransient<IProductFactory, ProductFactory>();
 builder.Services.AddTransient(typeof(IRepositoryBase<>), typeof(RepositoryBase<>));
 
-
-
-
-
 var app = builder.Build();
-
-// Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
 }
 app.UseStaticFiles();
-
 app.UseRouting();
-
 app.UseAuthorization();
-
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
-
 app.Run();

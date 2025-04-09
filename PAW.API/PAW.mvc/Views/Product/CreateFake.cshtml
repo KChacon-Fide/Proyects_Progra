@@ -1,11 +1,8 @@
 ﻿@model PAW.Models.Product
-
 @{
-    ViewData["Title"] = "Producto Falso Generado";
+    ViewData["Title"] = "Se genero un producto Falso";
 }
-
 <h2>@ViewData["Title"]</h2>
-
 <table class="table table-bordered">
     <tr><th>Nombre</th><td>@Model.ProductName</td></tr>
     <tr><th>Rating</th><td>@Model.Rating</td></tr>
@@ -14,5 +11,4 @@
     <tr><th>Última Modificación</th><td>@Model.LastModified?.ToShortDateString()</td></tr>
     <tr><th>Modificado por</th><td>@Model.ModifiedBy</td></tr>
 </table>
-
 <a class="btn btn-primary" href="@Url.Action("Index", "Product")">Volver a la lista</a>

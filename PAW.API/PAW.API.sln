@@ -19,8 +19,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAW.Architecture", "PAW.Arc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAW.Repositories", "PAW.Repositories\PAW.Repositories.csproj", "{1F1CC041-C557-4A70-B3E3-9B422B6C6F39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskMinimalApi", "TaskMinimalApi\TaskMinimalApi.csproj", "{6F84C1F3-AF31-4475-BF77-3D417E0BE7F2}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAW.ArchitectureTests", "PAW.ArchitectureTests\PAW.ArchitectureTests.csproj", "{CA0FBB0B-4D2C-498E-ADED-685CC97283E9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAW.RepositoriesTests", "PAW.RepositoriesTests\PAW.RepositoriesTests.csproj", "{B609C58E-E48E-499C-AC13-DABED4330E97}"
@@ -65,10 +63,6 @@ Global
 		{1F1CC041-C557-4A70-B3E3-9B422B6C6F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F1CC041-C557-4A70-B3E3-9B422B6C6F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F1CC041-C557-4A70-B3E3-9B422B6C6F39}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6F84C1F3-AF31-4475-BF77-3D417E0BE7F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6F84C1F3-AF31-4475-BF77-3D417E0BE7F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6F84C1F3-AF31-4475-BF77-3D417E0BE7F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6F84C1F3-AF31-4475-BF77-3D417E0BE7F2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CA0FBB0B-4D2C-498E-ADED-685CC97283E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CA0FBB0B-4D2C-498E-ADED-685CC97283E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA0FBB0B-4D2C-498E-ADED-685CC97283E9}.Release|Any CPU.ActiveCfg = Release|Any CPU

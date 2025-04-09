@@ -12,35 +12,27 @@ namespace PAW.Business
         Task<bool> UpdateAsync(Supplier supplier);
         Task<bool> DeleteAsync(int id);
     }
-
-    // Constructor primario de C# 12 (si no usas previews, implementa uno normal)
-    public class SupplierManager(ISupplierRepository supplierRepository, IFinanceService financeService)
-        : ISupplierManager
+    public class SupplierManager(ISupplierRepository supplierRepository, IFinanceService financeService): ISupplierManager
     {
         private readonly ISupplierRepository _supplierRepository = supplierRepository;
-        private readonly IFinanceService _financeService = financeService; // si lo necesitas
-
+        private readonly IFinanceService _financeService = financeService;
         public async Task<IEnumerable<Supplier>> GetAllAsync()
         {
             return await _supplierRepository.GetAllAsync();
         }
-
         public async Task<Supplier> GetByIdAsync(int id)
         {
             return await _supplierRepository.GetByIdAsync(id);
         }
-
         public async Task<Supplier> CreateAsync(Supplier supplier)
         {
             
             return await _supplierRepository.CreateAsync(supplier);
         }
-
         public async Task<bool> UpdateAsync(Supplier supplier)
         {
             return await _supplierRepository.UpdateAsync(supplier);
         }
-
         public async Task<bool> DeleteAsync(int id)
         {
             return await _supplierRepository.DeleteAsync(id);

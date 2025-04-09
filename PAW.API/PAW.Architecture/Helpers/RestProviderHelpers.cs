@@ -2,7 +2,6 @@
 using System.Text;
 
 namespace APW.Architecture.Helpers;
-
 /// <summary>
 /// Provides helper methods for creating and managing HTTP requests.
 /// </summary>

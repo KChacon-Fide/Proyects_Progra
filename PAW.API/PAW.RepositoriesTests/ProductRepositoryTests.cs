@@ -9,9 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 
-
-namespace PAW.Repositories.Tests
-{
+namespace PAW.Repositories.Tests {
     [TestClass]
     public class ProductRepositoryTests
     {
@@ -24,18 +22,14 @@ namespace PAW.Repositories.Tests
             var options = new DbContextOptionsBuilder<ProductDb2Context>()
                 .UseInMemoryDatabase(databaseName: "TestDb")
                 .Options;
-
-            _context = new ProductDb2Context(options);
-            _repository = new ProductRepository();
+            _context = new ProductDb2Context(options); _repository = new ProductRepository();
         }
-
         [TestCleanup]
         public void Cleanup()
         {
             _context.Database.EnsureDeleted();
             _context.Dispose();
         }
-
         [TestMethod]
         public async System.Threading.Tasks.Task CreateAsyncShouldInsertProduct()
         {
@@ -46,26 +40,19 @@ namespace PAW.Repositories.Tests
                 Rating = 4.5m,
                 CategoryId = 1,
                 ModifiedBy = "TestUser",
-                LastModified = DateTime.Now
-            };
-
+                LastModified = DateTime.Now };
             var result = await _repository.CreateAsync(product);
-
             Assert.IsNotNull(result);
             Assert.AreEqual("Test Product", result.ProductName);
         }
-
         [TestMethod]
         public async System.Threading.Tasks.Task GetAllProductsAsync_ShouldReturnProducts()
         {
             await CreateAsyncShouldInsertProduct(); 
-
             var products = await _repository.GetAllProductsAsync();
-
             Assert.IsNotNull(products);
             Assert.IsTrue(products.Any());
         }
-
         [TestMethod]
         public async System.Threading.Tasks.Task UpdateAsync_ShouldUpdateProduct()
         {
@@ -75,15 +62,11 @@ namespace PAW.Repositories.Tests
                 Description = "Original Desc",
                 CategoryId = 1,
                 ModifiedBy = "User",
-                LastModified = DateTime.Now
-            });
-
+                LastModified = DateTime.Now });
             product.ProductName = "Updated Name";
             var result = await _repository.UpdateAsync(product);
-
             Assert.IsTrue(result);
         }
-
         [TestMethod]
         public async System.Threading.Tasks.Task DeleteAsync_ShouldRemoveProduct()
         {
@@ -93,8 +76,7 @@ namespace PAW.Repositories.Tests
                 Description = "To be deleted",
                 CategoryId = 1,
                 ModifiedBy = "User",
-                LastModified = DateTime.Now
-            });
+                LastModified = DateTime.Now });
 
             var deleted = await _repository.DeleteAsync(product.ProductId);
             Assert.IsTrue(deleted);

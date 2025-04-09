@@ -3,10 +3,67 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - PAW.mvc</title>
+    <title>@ViewData["Title"] - KCS</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/PAW.mvc.styles.css" asp-append-version="true" />
+    <style>
+        :root {
+            --primary-celeste: #00bfff;
+            --green-dark: #004d40;
+            --light-bg: #f4f7fa;
+            --white: #ffffff;
+            --black: #212529;
+        }
+        body {
+            background-color: var(--light-bg);
+            color: var(--black);
+            font-family: 'Segoe UI', sans-serif;
+        }
+        .navbar {
+            background: linear-gradient(to right, var(--green-dark), var(--primary-celeste));
+            padding: 0.8rem 1rem;
+        }
+
+        .navbar-brand {
+            color: var(--white) !important;
+            font-weight: bold;
+            font-size: 1.3rem;
+        }
+
+        .nav-link {
+            color: var(--white) !important;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+
+            .nav-link:hover {
+                color: #e0f7fa !important;
+                text-decoration: underline;
+            }
+        .container main {
+            background-color: var(--white);
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+            margin-top: 20px;
+            min-height: 60vh;
+        }
+        footer {
+            background-color: var(--green-dark);
+            color: var(--white);
+            padding: 15px 0;
+        }
+        
+            footer a {
+                color: var(--primary-celeste);
+            }
+
+                footer a:hover {
+                    color: var(--white);
+                    text-decoration: underline;
+                }
+    </style>
 </head>
 <body>
     <header>
@@ -23,21 +80,20 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Product" asp-action="Index">Product</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Product" asp-action="Index">Producto</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Categories" asp-action="Index">Category</a>
+                        @*<li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Categories" asp-action="Index">Categoria</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Suppliers" asp-action="Index">Suppliers</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacidad</a>
+                        </li>*@
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Product" asp-action="Playground">Crear Productos</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Product" asp-action="Playground">Crear Producto</a>
                         </li>
-
                     </ul>
                 </div>
             </div>
@@ -48,7 +104,6 @@
             @RenderBody()
         </main>
     </div>
-
     <footer class="border-top footer text-muted">
         <div class="container">
             &copy; 2025 - PAW.mvc - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>

@@ -1,35 +1,94 @@
 ﻿@model IEnumerable<PAW.Models.Product>
 
-<h2>Productos generados (Fakes)</h2>
+<style>
+    .title-fake {
+        font-size: 1.8rem;
+        font-weight: bold;
+        color: #004d40;
+        margin-bottom: 20px;
+    }
 
-<table class="table table-bordered">
-    <thead>
-        <tr>
-            <th>Nombre</th>
-            <th>Rating</th>
-            <th>Descripción</th>
-            <th>Categoría</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var p in Model)
-        {
-            <tr>
-                <td>@p.ProductName</td>
-                <td>@p.Rating</td>
-                <td>@p.Description</td>
-                <td>@p.CategoryId</td>
-            </tr>
+    .custom-table-fake {
+        background-color: #ffffff;
+        border-radius: 10px;
+        overflow: hidden;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+        margin-bottom: 30px;
+    }
+
+        .custom-table-fake thead {
+            background-color: #00bfff;
+            color: white;
+            font-weight: 600;
+            text-align: center;
         }
-    </tbody>
-</table>
 
-<div class="mb-3">
-    <button class="btn btn-info" onclick="addFakeProducts()">Generar más productos (AJAX)</button>
+        .custom-table-fake tbody tr:hover {
+            background-color: #e0f7ff;
+        }
+
+        .custom-table-fake th,
+        .custom-table-fake td {
+            padding: 14px !important;
+            vertical-align: middle;
+            color: #212529;
+        }
+
+    .btn-custom-info {
+        background-color: #00bfff;
+        color: white;
+        font-weight: 500;
+        border: none;
+        border-radius: 6px;
+        padding: 10px 20px;
+        transition: background-color 0.3s ease;
+        margin-bottom: 20px;
+    }
+
+        .btn-custom-info:hover {
+            background-color: #009fd4;
+        }
+
+    #createdProductsContainer {
+        margin-top: 25px;
+    }
+
+    h3 {
+        color: #004d40;
+        margin-top: 40px;
+    }
+</style>
+
+<div class="container">
+    <h2 class="title-fake">Productos generados (Fakes)</h2>
+
+    <table class="table custom-table-fake">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Rating</th>
+                <th>Descripción</th>
+                <th>Categoría</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var p in Model)
+            {
+                <tr>
+                    <td>@p.ProductName</td>
+                    <td>@p.Rating</td>
+                    <td>@p.Description</td>
+                    <td>@p.CategoryId</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <button class="btn btn-custom-info" onclick="addFakeProducts()">Generar más productos</button>
+
+    <h3>Más productos creados</h3>
+    <div id="createdProductsContainer"></div>
 </div>
-
-<h3>Más productos creados con AJAX</h3>
-<div id="createdProductsContainer"></div>
 
 @section Scripts {
     <script>

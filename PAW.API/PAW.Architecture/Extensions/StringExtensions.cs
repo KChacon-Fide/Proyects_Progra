@@ -1,5 +1,4 @@
 ﻿namespace PAW.Architecture.Extensions;
-
 public static class StringExtensions
 {
     public static string AddASalt(this string value)

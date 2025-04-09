@@ -13,7 +13,6 @@ namespace PAW.mvc.Data
             : base(options)
         {
         }
-
         public DbSet<PAW.Models.Product> Product { get; set; } = default!;
     }
 }

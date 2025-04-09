@@ -17,7 +17,5 @@ namespace PAW.Models.Service
 
         [JsonPropertyName("fecha")]
         public string Date { get; set; }
-
-
     }
 }

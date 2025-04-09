@@ -11,7 +11,6 @@ namespace PAW.Repositories
         Task<bool> UpdateAsync(Inventory inventory);
         Task<bool> DeleteAsync(int id);
     }
-
     public class InventoryRepository : RepositoryBase<Inventory>, IInventoryRepository
     {
         public async Task<IEnumerable<Inventory>> GetAllAsync()
@@ -19,23 +18,19 @@ namespace PAW.Repositories
             var items = await base.ReadAsync();
             return items.ToList();
         }
-
         public async Task<Inventory> GetByIdAsync(int id)
         {
             return await base.FindAsync(id);
         }
-
         public async Task<Inventory> CreateAsync(Inventory inventory)
         {
-            var success = await base.CreateAsync(inventory); // CreateAsync(T) retorna bool
+            var success = await base.CreateAsync(inventory);
             return success ? inventory : null;
         }
-
         public async Task<bool> UpdateAsync(Inventory inventory)
         {
             return await base.UpdateAsync(inventory);
         }
-
         public async Task<bool> DeleteAsync(int id)
         {
             var entity = await base.FindAsync(id);

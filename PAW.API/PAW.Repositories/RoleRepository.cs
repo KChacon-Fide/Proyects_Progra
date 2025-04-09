@@ -11,7 +11,6 @@ namespace PAW.Repositories
         Task<bool> UpdateAsync(Role role);
         Task<bool> DeleteAsync(int id);
     }
-
     public class RoleRepository : RepositoryBase<Role>, IRoleRepository
     {
         public async Task<IEnumerable<Role>> GetAllAsync()
@@ -19,23 +18,19 @@ namespace PAW.Repositories
             var items = await base.ReadAsync();
             return items.ToList();
         }
-
         public async Task<Role> GetByIdAsync(int id)
         {
             return await base.FindAsync(id);
         }
-
         public async Task<Role> CreateAsync(Role role)
         {
             bool success = await base.CreateAsync(role);
             return success ? role : null;
         }
-
         public async Task<bool> UpdateAsync(Role role)
         {
             return await base.UpdateAsync(role);
         }
-
         public async Task<bool> DeleteAsync(int id)
         {
             var existing = await base.FindAsync(id);

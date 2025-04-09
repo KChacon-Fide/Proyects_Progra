@@ -12,7 +12,6 @@ namespace PAW.mvc.Controllers
         {
             _productManager = productManager;
         }
-
         public async Task<IEnumerable<Product>> GetAllMyProductAsync()
         {
             return await _productManager.GetAllAsync();
